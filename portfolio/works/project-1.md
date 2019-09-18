@@ -1,11 +1,11 @@
 ---
 title: Coming Soon
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
-year: 2018
+thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+year: '2020'
 categories:
-- print
-description: subtitle
+- coming soon
+description: coming soon to east austin
 
 ---
 # Coming Soon
