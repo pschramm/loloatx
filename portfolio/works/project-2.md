@@ -3,9 +3,8 @@ title: Wine and Drink Menu
 date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/wine2.jpg"
 year: '2019'
-description: more about our reds
-categories:
-- print
+description: Wine and Drink / October 2019
+categories: []
 
 ---
 # Wine and Drink Menu
