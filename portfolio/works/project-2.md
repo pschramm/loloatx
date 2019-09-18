@@ -3,9 +3,10 @@ title: Wine and Drink Menu
 date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/wine2.jpg"
 year: '2019'
-description: 'With a focus on Southern France, Eastern Europe and everywhere in between,
-  the highly curated wine list offers a broad range of delicious wines from thoughtful
-  winemakers around the world. '
+description: 'Focused. Balanced. Dynamic. Surprising. A changing list with one simple
+  rule: there are no rules. Offering over 40 by the glass and 200 by the bottle options
+  as well as a monthly flight program, LOLO wants you to do one simple thing; let
+  yourself go.'
 categories: []
 
 ---
