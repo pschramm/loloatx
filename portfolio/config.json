@@ -6,18 +6,6 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "Menu",
-      "link": "/menu/",
-      "position": "right",
-      "external": false
-    },
-    {
-      "text": "Our Wines",
-      "link": "/wines",
-      "position": "left",
-      "external": false
-    },
-    {
       "text": "Say Hello!",
       "link": "mailto:sayhi@lolowines.com",
       "position": "right",
