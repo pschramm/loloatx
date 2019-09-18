@@ -1,6 +1,10 @@
 ---
 works_index: true
-hero_text: "<strong>We're LOLO</strong>, we work for wine. Come hang out"
+hero_text: "<strong>LOLO. Come drink wine with us.<br></strong>Our cozy, dimly-lit
+  den offers unpretentious atmosphere, perfect for an intimate gathering or a spontaneous
+  after-work drink. We strive to introduce you to the world of natural wines, wines
+  produced from organic or biodynamic grapes with very little intervention from the
+  winemaker."
 title: Hero
 
 ---
