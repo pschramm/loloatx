@@ -6,16 +6,16 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "wines",
-      "link": "/",
-      "position": "left",
+      "text": "Menu",
+      "link": "/menu/",
+      "position": "right",
       "external": false
     },
     {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/its.nwa",
+      "text": "Our Wines",
+      "link": "/",
       "position": "left",
-      "external": true
+      "external": false
     },
     {
       "text": "Say hi!",
@@ -24,10 +24,10 @@
       "external": true
     },
     {
-      "text": "Menu",
-      "link": "/menu/",
-      "position": "right",
-      "external": false
+      "text": "Instagram",
+      "link": "https://www.instagram.com/its.nwa",
+      "position": "left",
+      "external": true
     }
   ]
 }
