@@ -6,8 +6,8 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "Say Hello!",
-      "link": "mailto:sayhi@lolowines.com",
+      "text": "Say Hello to LOLO!",
+      "link": "mailto:sayhi@lolo.wine",
       "position": "right",
       "external": true
     },
