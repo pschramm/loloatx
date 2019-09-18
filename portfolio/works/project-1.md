@@ -5,7 +5,9 @@ thumbnail: "/upload/DSC00966 copy[1].jpg"
 year: '2020'
 categories:
 - coming soon
-description: coming soon to east austin
+description: 'Located in the heart of the east sixth street arts + entertainment district
+  on the east end of the Salinas Building, next to neighboring sister bar The Volstead
+  Lounge & Hotel Vegas. '
 
 ---
 # Coming Soon
