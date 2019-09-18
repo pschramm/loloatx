@@ -6,7 +6,7 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "About LOLO",
+      "text": "wines",
       "link": "/",
       "position": "left",
       "external": false
