@@ -6,5 +6,5 @@ hero_text: "<strong>LOLO Austin. </strong>We strive to introduce you to the worl
 title: Hero
 
 ---
-<:text="$page.frontmatter.hero_text" />
+<Hero :text="$page.frontmatter.hero_text" />
 <WorksList />
