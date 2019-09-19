@@ -12,6 +12,4 @@ description: 'Located in the heart of the east sixth street arts + entertainment
 ---
 # Coming Soon
 
-Come visit us Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ![](/upload/about.jpg)
