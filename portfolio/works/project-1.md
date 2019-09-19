@@ -10,6 +10,8 @@ description: 'Located in the heart of the east sixth street arts + entertainment
   Lounge & Hotel Vegas. '
 
 ---
-# Coming Soon
+# **LºLº** Coming Soon to East Austin
+
+Located in the heart of the east sixth street arts + entertainment district on the east end of the Salinas Building, next to neighboring sister bar The Volstead Lounge & Hotel Vegas.
 
 ![](/upload/about.jpg)
