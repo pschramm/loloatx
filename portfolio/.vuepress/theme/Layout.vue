@@ -15,16 +15,6 @@
         <Content/>
       </div>
 
-      <!-- Single project view -->
-      <div v-if="isSingleProject">
-        <SingleProjectHeader
-          :title="$page.frontmatter.title"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
-        />
-        <Content/>
-      </div>
-
       <!-- Journal list -->
       <div v-if="$route.path === '/journal/'" class="journal-list">
         <Content />
