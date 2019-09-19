@@ -1,7 +1,7 @@
 ---
 works_index: true
 hero_text: <span class="color_11"><img src="/upload/LOLO_WEB.svg"></span>
-title: Hero
+title: Coming Soon to East Austin.
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
