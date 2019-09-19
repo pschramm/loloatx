@@ -1,7 +1,6 @@
 ---
 works_index: true
-hero_text: <strong>L O L O <br></strong><span class="color_11">Your Friendly &amp;
-  Fearless Neighborhood Wine Bar</span>
+hero_text: <span class="color_11"><img src="/upload/LOLO_WEB.svg"></span>
 title: Hero
 
 ---
