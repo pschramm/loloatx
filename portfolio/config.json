@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "Say Hello to LOLO!",
-      "link": "mailto:sayhi@lolo.wine",
+      "link": "mailto:hello@lolo.wine",
       "position": "right",
       "external": true
     },
