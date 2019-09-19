@@ -9,4 +9,4 @@ description: Hours, Location and Contact Information
 ---
 # About Us
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu![](/upload/daria-volkova-jipZCZiBl28-unsplash.jpg)
+![](/upload/daria-volkova-jipZCZiBl28-unsplash.jpg)
