@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: <span class="color_11"><img src="/upload/LOLO_WEB_HOLDER.svg"></span>
+hero_text: <img src="/upload/LOLO_WEB_HOLDER.svg">
 title: Coming Soon to East Austin.
 
 ---
